@@ -1,0 +1,7 @@
+Trending Algorithm:
+
+Default timestamp is 6th may 2022
+Playtime increases by (1/(last timestamp in table - current timestamp))
+Checks everyday if last timestamp is past two days. If yes, make the song's trending score 0
+A user will be able to update timestamp 5 times a day only
+Top 3 shall be placed in trending section

@@ -1,0 +1,24 @@
+Left Navigation Bar
+
+- Menu: 
+	- Home:
+		- Banner of the latest album released
+		- Trending Songs
+		- Recently Played
+	- My Recordings
+		- Albums -> Recordings
+
+- The Team:
+	- Arranger
+	- Developer
+
+Admin Controls:
+- Uploading Albums
+- Adding songs in existing Albums
+- Deleting Albums/Songs
+- Banner changing
+
+Audio placement with Song
+My Recordings
+Trimming and improvising Karaoke songs
+Recently Played with song title and song playing
